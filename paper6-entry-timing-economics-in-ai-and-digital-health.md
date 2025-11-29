@@ -205,14 +205,16 @@ $$
 So the optimal delay is:
 
 $$
-\Delta^* = 
+\Delta^* =
 \begin{cases}
+\displaystyle
 \frac{1}{\beta - \alpha}
-\ln \left[
-\frac{\beta \bar{\pi}_0}{r \lambda_{\max} \alpha I_P}\left(1 - e^{-r \tau}\right)
-\right]
-& \text{if } \beta \neq \alpha, \\
-\text{boundary solution (0 or large)} & \text{if } \beta = \alpha.
+\ln\!\left(
+\frac{\beta \,\bar{\pi}_0}{r \,\lambda_{\max}\,\alpha\, I_P}
+\left(1 - e^{-r \tau}\right)
+\right),
+& \text{if } \beta \neq \alpha, \\[1em]
+\text{boundary solution (0 or large)}, & \text{if } \beta = \alpha.
 \end{cases}
 $$
 
