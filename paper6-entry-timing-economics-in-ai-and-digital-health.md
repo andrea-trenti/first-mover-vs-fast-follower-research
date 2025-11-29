@@ -192,8 +192,11 @@ $$
 Setting $\frac{dV}{d\Delta} = 0$ and solving:
 
 $$
-\lambda_{\max} \alpha I_P e^{-\alpha \Delta^*}
-= \frac{\beta \bar{\pi}_0}{r} \left(1 - e^{-r \tau}\right) e^{-\beta \Delta^*}.
+\lambda_{\max}\,\alpha\, I_P \, e^{-\alpha \Delta^*}
+=
+\frac{\beta \,\bar{\pi}_0}{r}\,
+\left[1 - e^{-r \tau}\right]\,
+e^{-\beta \Delta^*}.
 $$
 
 Rearranging:
